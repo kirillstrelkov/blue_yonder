@@ -1,0 +1,4 @@
+https://www.python.org/static/img/python-logo@2x.png
+https://www.raspberrypi.org/documentation/usage/python/images/python-logo.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2000px-Python.svg.png
+https://manufacturingstories.com/wp-content/uploads/2018/01/01-rise-of-python-v02-1.png
