@@ -26,7 +26,7 @@ def download_images(input_file, output_folder):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Download images from file.')
     parser.add_argument('input_file', help='Input file which contains urls')
-    parser.add_argument('output_folder', help='Output folder where to save all urls')
+    parser.add_argument('output_folder', help='Output folder where to save all images')
 
     args = parser.parse_args()
     download_images(args.input_file, args.output_folder)
